@@ -1,0 +1,7 @@
+name: Archery
+version: ${project.version}
+main: com.gmail.TheMiniLuca.archery.Main.Main
+api-version: 1.16
+depend: [WorldGuard]
+commands:
+  stadium:
